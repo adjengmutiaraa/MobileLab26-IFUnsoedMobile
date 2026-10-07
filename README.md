@@ -1,8 +1,8 @@
-**Nama:** Adjeng Mutiara Dewi
-**NIM:** H1D024055
-**Shift Baru:** I
-**Shift KRS:** B
-**Responsi:** 1 - Praktikum Pemrograman Mobile
+**Nama:** Adjeng Mutiara Dewi <br>
+**NIM:** H1D024055 <br>
+**Shift Baru:** I <br>
+**Shift KRS:** B <br>
+**Responsi:** 1 - Praktikum Pemrograman Mobile <br>
 
 # Paket 1 = Pantau Gempa BMKG - Aplikasi Monitoring & Katalog Gempa Terkini
 
@@ -34,7 +34,7 @@ Aplikasi mobile Android berbasis **Jetpack Compose** untuk menampilkan katalog d
 1. **Katalog Gempa Terkini**: Menampilkan daftar gempa bumi M 5.0+ terbaru dari BMKG menggunakan `LazyColumn`.
 2. **Pencarian / Filter Lokal Wilayah**: Fitur pencarian lokasi wilayah gempa secara instan dan responsif.
 3. **Detail Informasi Gempa**: Menampilkan rincian parameter lengkap setiap kejadian gempa meliputi Tanggal, Jam, Koordinat, Magnitudo, Kedalaman, Wilayah, dan Potensi Tsunami.
-4. **Indikator Tingkat Bahaya (Warna Dinamis)**: Badge magnitudo otomatis menyesuaikan warna status keparahan gempa (*Low*, *Warning*, *Significant*, *Critical*).
+4. **Indikator Tingkat Bahaya (Warna Dinamis)**: Badge magnitudo otomatis menyesuaikan warna status keparahan gempa (*Low* hijau, *Warning* kuning, *Significant* oranye, *Critical* merah).
 5. **State-Driven UI**: Penanganan state UI yang tangguh mencakup *Loading State*, *Success State*, dan *Error State* disertai tombol *Retry* (*Coba Lagi*).
 
 ---

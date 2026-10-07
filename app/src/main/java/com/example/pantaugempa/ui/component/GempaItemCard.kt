@@ -30,7 +30,6 @@ import com.example.pantaugempa.ui.theme.StatusCritical
 import com.example.pantaugempa.ui.theme.StatusLow
 import com.example.pantaugempa.ui.theme.StatusSignificant
 import com.example.pantaugempa.ui.theme.StatusWarning
-import com.example.pantaugempa.ui.theme.TextSecondary
 
 @Composable
 fun GempaItemCard(
@@ -63,7 +62,7 @@ fun GempaItemCard(
                 .fillMaxWidth(),
             verticalAlignment = Alignment.CenterVertically
         ) {
-            // Badge Skala Magnitude
+            // Badge Skala Magnitude dengan Warna Status
             Surface(
                 shape = RoundedCornerShape(8.dp),
                 color = badgeColor.copy(alpha = 0.15f),

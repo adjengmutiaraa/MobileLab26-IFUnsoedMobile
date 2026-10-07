@@ -17,8 +17,8 @@ val Surface = Color(0xFFFFFFFF)
 val TextPrimary = Color(0xFF1E293B)
 val TextSecondary = Color(0xFF64748B)
 
-// Earthquake Status
-val StatusLow = Color(0xFF22C55E)
-val StatusWarning = Color(0xFFFACC15)
-val StatusSignificant = Color(0xFFF97316)
-val StatusCritical = Color(0xFFDC2626)
+// Earthquake Status Colors
+val StatusLow = Color(0xFF22C55E)         // Hijau (< 4.0 SR)
+val StatusWarning = Color(0xFFFACC15)     // Kuning (4.0 - 4.9 SR)
+val StatusSignificant = Color(0xFFF97316) // Oranye (5.0 - 6.9 SR)
+val StatusCritical = Color(0xFFDC2626)    // Merah (>= 7.0 SR)
