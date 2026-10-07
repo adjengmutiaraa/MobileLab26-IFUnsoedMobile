@@ -3,7 +3,7 @@
 **Shift Baru:** I <br>
 **Shift KRS:** B <br>
 
-**Link Penjelasan Kode:**
+**Link Penjelasan Kode:** https://youtu.be/ZNIQcrygeQQ?si=u_ucvmCD0UXmfx_6
 
 # Paket 1 = Pantau Gempa BMKG - Aplikasi Monitoring & Katalog Gempa Terkini
 
