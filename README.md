@@ -2,7 +2,8 @@
 **NIM:** H1D024055 <br>
 **Shift Baru:** I <br>
 **Shift KRS:** B <br>
-**Responsi:** 1 - Praktikum Pemrograman Mobile <br>
+
+**Link Penjelasan Kode:**
 
 # Paket 1 = Pantau Gempa BMKG - Aplikasi Monitoring & Katalog Gempa Terkini
 
