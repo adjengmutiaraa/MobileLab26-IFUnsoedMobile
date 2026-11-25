@@ -1,14 +1,17 @@
-# IDE
-.vscode/
-.idea/
 # Flutter
-**/build/
-**/.dart_tool/
-**/.flutter-plugins
-**/.flutter-plugins-dependencies
+toko_kita/build/
+toko_kita/.dart_tool/
+toko_kita/.flutter-plugins
+toko_kita/.flutter-plugins-dependencies
+
 # Android
-**/.gradle/
-**/local.properties
+toko_kita/android/.gradle/
+toko_kita/android/local.properties
+
 # APK
 *.apk
 *.aab
+
+# IDE
+.idea/
+.vscode/
